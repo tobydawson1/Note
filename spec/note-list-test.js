@@ -27,7 +27,7 @@ const describe = (desc, fn) => {
   const expect = (exp) => matchers(exp)
   
 
-describe('Note_list', () => {
+describe('Notelist', () => {
     var noteList = new NoteList()
     noteList.add("Hello there friend!")
     it('displays a note', () => {

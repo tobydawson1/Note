@@ -18,7 +18,7 @@ testNoteSaysHello()
 
 function testCanReturnNote() {
     var note = new Note("Hello");
-    assert.isTrue("method returns note", note.returnText() === "Hello");
+    assert.isTrue("method returns note", note.text === "Hello");
 };
 
 testCanReturnNote()

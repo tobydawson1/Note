@@ -13,6 +13,10 @@
         this.notes.push(arg)
     }    
 
+    NoteList.prototype.store = function(string) {
+        var note = new Note(string)
+    }
+
     exports.NoteList = NoteList;
 
 })(this); 
