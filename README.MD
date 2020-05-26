@@ -5,4 +5,4 @@
 
 Technologies: Javascript, HTML, CSS,
 
-[Task](#Task) | [Installation Instructions](#Instructions) | Functional Description | User Stories | Further improvements
+[Task](#Task) | [Installation Instructions](#Instructions) | [Functional Description](#Description) | [User Stories](#Stories) | [Further improvements](#improvements)
