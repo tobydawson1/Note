@@ -15,11 +15,17 @@ This challenge is the sixth afternoon pair programming challenge at Makers Acade
 
 ## <a name='Instructions'>Installation Instructions</a>
 
-Fork this repository, clone to your local machine then change into the directory:
-$ git clone git@github.com:davmcgregor/notes-js.git
-$ cd notes-js
-Test were written using test helper code in spec/JavaScriptTesting.js
+1. Fork this repository, clone to your local machine then change into the directory:
 
-Run the app on a local server and use on the broswer:
+```
+$ git clone git@github.com:tobydawson1/note.git
+$ cd note
+```
 
+2. Test were written using test helper code in spec/JavaScriptTesting.js
+
+3. Run the app on a local server and use on the broswer:
+
+```
 $ open index.html
+```
