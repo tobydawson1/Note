@@ -6,3 +6,7 @@
 Technologies: Javascript, HTML, CSS,
 
 [Task](#Task) | [Installation Instructions](#Instructions) | [Functional Description](#Description) | [User Stories](#Stories) | [Further improvements](#improvements)
+
+## Task
+
+## <a name='Instructions'> Installation Instructions </a>
