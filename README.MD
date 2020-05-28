@@ -9,4 +9,9 @@ Technologies: Javascript, HTML, CSS,
 
 ## Task
 
-## <a name='Instructions'> Installation Instructions </a>
+Write a frontend, single page app using only pure JavaScript.
+
+This challenge is the sixth afternoon pair programming challenge at Makers Academy.
+
+## <a name='Instructions'>Installation Instructions</a>
+
