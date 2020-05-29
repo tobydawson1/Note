@@ -39,3 +39,5 @@ The app has the following specifications:
   <li>Notes are saved to a list
   <li>Clicking on a saved note will show the full note text
 </ol>
+
+## <a name='Stories'> User Stories </a>
