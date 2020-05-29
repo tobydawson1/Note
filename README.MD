@@ -5,13 +5,34 @@
 
 Technologies: Javascript, HTML, CSS,
 
-[Task](#Task) | [Installation Instructions](#Instructions) | [Functional Description](#Description) | [User Stories](#Stories) | [Further improvements](#improvements)
+[Task](#Task) | [User Stories](#Stories) | [Installation Instructions](#Instructions) | [Functional Description](#Description) |
 
 ## Task
 
 Write a frontend, single page app using only pure JavaScript.
 
 This challenge is the sixth afternoon pair programming challenge at Makers Academy.
+
+## <a name='Stories'> User Stories </a>
+
+```
+As a programmer
+I can see a list of my notes, where each note is abbreviated to the first 20 characters
+So I can find the one I want
+```
+
+```
+As a programmer
+I can create a new note
+So I can record something I need to remember
+```
+
+```
+As a programmer
+I can see the full text of an individual note on its own page
+So I can see all the information in the note
+```
+
 
 ## <a name='Instructions'>Installation Instructions</a>
 
@@ -40,22 +61,3 @@ The app has the following specifications:
   <li>Clicking on a saved note will show the full note text
 </ol>
 
-## <a name='Stories'> User Stories </a>
-
-```
-As a programmer
-I can see a list of my notes, where each note is abbreviated to the first 20 characters
-So I can find the one I want
-```
-
-```
-As a programmer
-I can create a new note
-So I can record something I need to remember
-```
-
-```
-As a programmer
-I can see the full text of an individual note on its own page
-So I can see all the information in the note
-```
