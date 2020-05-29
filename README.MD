@@ -31,3 +31,12 @@ $ open index.html
 ```
 
 ## <a name='Description'>Functional Description </a>
+
+The app has the following specifications:
+
+A user can write a note
+A user can write multiple notes
+Notes are saved to a list
+Clicking on a saved note will show the full note text
+
+
