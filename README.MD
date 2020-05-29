@@ -26,7 +26,8 @@ $ cd note
 
 3. Run the app on a local server and use on the broswer:
 
-## <a name='Description'>Functional Description </a>
 ```
 $ open index.html
 ```
+
+## <a name='Description'>Functional Description </a>
