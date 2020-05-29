@@ -33,10 +33,9 @@ $ open index.html
 ## <a name='Description'>Functional Description </a>
 
 The app has the following specifications:
-
-A user can write a note
-A user can write multiple notes
-Notes are saved to a list
-Clicking on a saved note will show the full note text
-
-
+<ol>
+  <li>A user can write a note
+  <li>A user can write multiple notes
+  <li>Notes are saved to a list
+  <li>Clicking on a saved note will show the full note text
+</ol>
